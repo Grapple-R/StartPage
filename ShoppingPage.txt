@@ -1,0 +1,24 @@
+<HTML>
+    <TITLE>New Homepage</TITLE>
+    <BODY>
+        <h1>Home Page</h1>
+
+        <a href="https://www.google.com/">Google</a>
+        <a href="https://shop.shoprite.com/">Shoprite</a>
+        <a href="https://www.amazon.com/">Amazon</a>
+        <a href="https://weather.com/">Weather Channel</a>
+
+        <h2>Shopping Page</h2>
+        <h2>Movies and TV</h2>
+        <h2>Music</h2>
+        <h2>Info & Reference</h2>
+        <h2>Food and Cooking</h2>
+        <h2>Health and Beauty</h2>
+        <h2>Internet and Phone</h2>
+        <h2>Antivirus</h2>
+        <h2>Sunday Flyers</h2>
+
+
+
+    </BODY>
+</HTML>
